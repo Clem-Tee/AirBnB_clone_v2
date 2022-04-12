@@ -1,0 +1,1 @@
+styles and images folder
